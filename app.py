@@ -8,6 +8,7 @@ import os
 import assemblyai as aai
 import google.generativeai as genai
 from typing import Dict, List, Any
+import src.database
 
 load_dotenv()
 
